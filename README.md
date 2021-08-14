@@ -8,6 +8,8 @@ Game uses advanced techniques like linear interpolation and the Box-Muller Trans
 
 <img width="186" alt="Screen Shot 2021-08-13 at 5 45 47 PM" src="https://user-images.githubusercontent.com/42658377/129429542-6e55671b-60e9-4102-82fe-dfec8fd8f106.png">
 
+Coded fully in Javascript, HTML, and CSS (P5).
+
 
 
 
